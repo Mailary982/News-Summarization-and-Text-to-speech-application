@@ -1,0 +1,1450 @@
+{
+    "Amazon": {
+        "Company": "Amazon",
+        "Articles": [
+            {
+                "title": "Amazon's Spring Sale is incoming, but so is Walmart Super Savings Week and Target Circle Week",
+                "summary": "'ZDNET's recommendations are based on many hours of testing, research, and comparison shopping . pore over customer reviews to find out what matters to real people who already own and use the products and services we’re assessing . neither the author nor the author are compensated for these independent reviews .",
+                "sentiment": "Negative",
+                "topics": "zdnet recommendations, zdnet, recommendations based"
+            },
+            {
+                "title": "Article: Beyond Trends: A Practical Guide to Choosing the Right Message Broker",
+                "summary": "key takeaways Message brokers can be broadly categorized as either stream-based or queue-based . Streams rely on rigid physical partitions for scaling, which creates challenges in handling poison pills . queues use low-cardinality logical partitions, enabling seamless auto-scaling .",
+                "sentiment": "Negative",
+                "topics": "message brokers, queue based, queues use"
+            },
+            {
+                "title": "Tech employees are getting the message: Play time's over",
+                "summary": "a trifecta of economics, pandemic-era realities, and political pressure is changing tech culture . companies are pushing to \"do more with less,\" founder says . \"my job is incredible, but it's also just a job. Family and personal health rank higher in my priority list,\" he writes .",
+                "sentiment": "Positive",
+                "topics": "tech culture, changing tech, economics pandemic"
+            },
+            {
+                "title": "The Silent Bestseller: How Some Self-Published Books Thrive Without Viral Marketing",
+                "summary": "the power of a second (or third) book When I released Caught in Cryptic, I poured everything into marketing it, hoping for an immediate surge in sales . I ran Amazon ads, posted across social media, and told every friend and family member about my debut .",
+                "sentiment": "Positive",
+                "topics": "book released, second book, amazon ads"
+            },
+            {
+                "title": "Sibu retiree duped of over RM370,000 in online biz scam",
+                "summary": "retiree in his 60s cheated of RM371,199 in fraudulent business scheme . police open an investigation paper under section 420 of the Penal Code for cheating . he was encouraged to open online business accounts on the amazon and TikTok platforms .",
+                "sentiment": "Negative",
+                "topics": "cheated rm371, fraudulent business, fraudulent"
+            },
+            {
+                "title": "Komoot’s Expanded Paywalls: Trying to make sense of it",
+                "summary": "all new users of the platform will require a premium subscription ($59/year) in order to sync those routes to connected devices, such as a Garmin/Wahoo/Hammerhead/etc . this is a pretty big deal, at least in terms of the future of Komoot .",
+                "sentiment": "Positive",
+                "topics": "sync routes, devices garmin, garmin wahoo"
+            },
+            {
+                "title": "Video: Trailer and Key Art Debut - Hulu's \"The Handmaid's Tale\" Sixth and Final Season",
+                "summary": "\"The Handmaid's Tale\" premieres Tuesday, April 8th with three episodes . new episodes stream Tuesdays and the series finales on may 27th . June's unyielding spirit and determination pull her back into the fight to take down Gilead .",
+                "sentiment": "Positive",
+                "topics": "handmaid tale, handmaid, fight gilead"
+            },
+            {
+                "title": "Just 42 Sublime Finds From Amazon",
+                "summary": "\"I went out on a TikTok whim with this set and was SO happy that I did! Very nice, thin yet heavy material...for now 10/10,\" says Alicia Tomasko . it's probably the best set/clothing item I’ve bought from amazon .",
+                "sentiment": "Positive",
+                "topics": "tiktok, tiktok whim, went tiktok"
+            },
+            {
+                "title": "41 Problem-Solving Products For Those Body-Related Issues Invading Your Search History",
+                "summary": "the GOBS of earwax is being removed from people's ear canals . the fema of the drops has been removed from the canal . it's the first time the crackling of the solution startsle you .",
+                "sentiment": "Negative",
+                "topics": "earwax removed, gobs earwax, earwax"
+            },
+            {
+                "title": "The Naga-Sobhita Love Story \"Began With An Ask Me Anything Session\"",
+                "summary": "a fan dropped a message on her Instagram why she's not following Naga Chaitanya . the couple shared some inside stories from their courtship period in an interview with Vogue .",
+                "sentiment": "Negative",
+                "topics": "naga chaitanya, chaitanya couple, following naga"
+            },
+            {
+                "title": "America Needs a New Free Speech Movement",
+                "summary": "we are in a full-blown crisis of free speech . ICE agents detained Mahmoud Khalil, a green-card holder, with plans to deport him because of the content of his speech.",
+                "sentiment": "Negative",
+                "topics": "detained mahmoud, mahmoud khalil, detained"
+            }
+        ],
+        "Comparative Sentiment Score": {
+            "Sentiment Distribution": {
+                "Positive": 5,
+                "Negative": 6,
+                "Neutral": 0
+            },
+            "Coverage Differences": [
+                {
+                    "Comparison": "Article 1 highlights zdnet recommendations, zdnet, recommendations based, while Article 2 discusses message brokers, queue based, queues use.",
+                    "Impact": "Article 1 has a Negative tone, while Article 2 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights zdnet recommendations, zdnet, recommendations based, while Article 3 discusses tech culture, changing tech, economics pandemic.",
+                    "Impact": "Article 1 has a Negative tone, while Article 3 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights zdnet recommendations, zdnet, recommendations based, while Article 4 discusses book released, second book, amazon ads.",
+                    "Impact": "Article 1 has a Negative tone, while Article 4 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights zdnet recommendations, zdnet, recommendations based, while Article 5 discusses cheated rm371, fraudulent business, fraudulent.",
+                    "Impact": "Article 1 has a Negative tone, while Article 5 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights zdnet recommendations, zdnet, recommendations based, while Article 6 discusses sync routes, devices garmin, garmin wahoo.",
+                    "Impact": "Article 1 has a Negative tone, while Article 6 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights zdnet recommendations, zdnet, recommendations based, while Article 7 discusses handmaid tale, handmaid, fight gilead.",
+                    "Impact": "Article 1 has a Negative tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights zdnet recommendations, zdnet, recommendations based, while Article 8 discusses tiktok, tiktok whim, went tiktok.",
+                    "Impact": "Article 1 has a Negative tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights zdnet recommendations, zdnet, recommendations based, while Article 9 discusses earwax removed, gobs earwax, earwax.",
+                    "Impact": "Article 1 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights zdnet recommendations, zdnet, recommendations based, while Article 10 discusses naga chaitanya, chaitanya couple, following naga.",
+                    "Impact": "Article 1 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights zdnet recommendations, zdnet, recommendations based, while Article 11 discusses detained mahmoud, mahmoud khalil, detained.",
+                    "Impact": "Article 1 has a Negative tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights message brokers, queue based, queues use, while Article 3 discusses tech culture, changing tech, economics pandemic.",
+                    "Impact": "Article 2 has a Negative tone, while Article 3 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights message brokers, queue based, queues use, while Article 4 discusses book released, second book, amazon ads.",
+                    "Impact": "Article 2 has a Negative tone, while Article 4 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights message brokers, queue based, queues use, while Article 5 discusses cheated rm371, fraudulent business, fraudulent.",
+                    "Impact": "Article 2 has a Negative tone, while Article 5 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights message brokers, queue based, queues use, while Article 6 discusses sync routes, devices garmin, garmin wahoo.",
+                    "Impact": "Article 2 has a Negative tone, while Article 6 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights message brokers, queue based, queues use, while Article 7 discusses handmaid tale, handmaid, fight gilead.",
+                    "Impact": "Article 2 has a Negative tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights message brokers, queue based, queues use, while Article 8 discusses tiktok, tiktok whim, went tiktok.",
+                    "Impact": "Article 2 has a Negative tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights message brokers, queue based, queues use, while Article 9 discusses earwax removed, gobs earwax, earwax.",
+                    "Impact": "Article 2 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights message brokers, queue based, queues use, while Article 10 discusses naga chaitanya, chaitanya couple, following naga.",
+                    "Impact": "Article 2 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights message brokers, queue based, queues use, while Article 11 discusses detained mahmoud, mahmoud khalil, detained.",
+                    "Impact": "Article 2 has a Negative tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights tech culture, changing tech, economics pandemic, while Article 4 discusses book released, second book, amazon ads.",
+                    "Impact": "Article 3 has a Positive tone, while Article 4 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights tech culture, changing tech, economics pandemic, while Article 5 discusses cheated rm371, fraudulent business, fraudulent.",
+                    "Impact": "Article 3 has a Positive tone, while Article 5 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights tech culture, changing tech, economics pandemic, while Article 6 discusses sync routes, devices garmin, garmin wahoo.",
+                    "Impact": "Article 3 has a Positive tone, while Article 6 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights tech culture, changing tech, economics pandemic, while Article 7 discusses handmaid tale, handmaid, fight gilead.",
+                    "Impact": "Article 3 has a Positive tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights tech culture, changing tech, economics pandemic, while Article 8 discusses tiktok, tiktok whim, went tiktok.",
+                    "Impact": "Article 3 has a Positive tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights tech culture, changing tech, economics pandemic, while Article 9 discusses earwax removed, gobs earwax, earwax.",
+                    "Impact": "Article 3 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights tech culture, changing tech, economics pandemic, while Article 10 discusses naga chaitanya, chaitanya couple, following naga.",
+                    "Impact": "Article 3 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights tech culture, changing tech, economics pandemic, while Article 11 discusses detained mahmoud, mahmoud khalil, detained.",
+                    "Impact": "Article 3 has a Positive tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights book released, second book, amazon ads, while Article 5 discusses cheated rm371, fraudulent business, fraudulent.",
+                    "Impact": "Article 4 has a Positive tone, while Article 5 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights book released, second book, amazon ads, while Article 6 discusses sync routes, devices garmin, garmin wahoo.",
+                    "Impact": "Article 4 has a Positive tone, while Article 6 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights book released, second book, amazon ads, while Article 7 discusses handmaid tale, handmaid, fight gilead.",
+                    "Impact": "Article 4 has a Positive tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights book released, second book, amazon ads, while Article 8 discusses tiktok, tiktok whim, went tiktok.",
+                    "Impact": "Article 4 has a Positive tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights book released, second book, amazon ads, while Article 9 discusses earwax removed, gobs earwax, earwax.",
+                    "Impact": "Article 4 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights book released, second book, amazon ads, while Article 10 discusses naga chaitanya, chaitanya couple, following naga.",
+                    "Impact": "Article 4 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights book released, second book, amazon ads, while Article 11 discusses detained mahmoud, mahmoud khalil, detained.",
+                    "Impact": "Article 4 has a Positive tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights cheated rm371, fraudulent business, fraudulent, while Article 6 discusses sync routes, devices garmin, garmin wahoo.",
+                    "Impact": "Article 5 has a Negative tone, while Article 6 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights cheated rm371, fraudulent business, fraudulent, while Article 7 discusses handmaid tale, handmaid, fight gilead.",
+                    "Impact": "Article 5 has a Negative tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights cheated rm371, fraudulent business, fraudulent, while Article 8 discusses tiktok, tiktok whim, went tiktok.",
+                    "Impact": "Article 5 has a Negative tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights cheated rm371, fraudulent business, fraudulent, while Article 9 discusses earwax removed, gobs earwax, earwax.",
+                    "Impact": "Article 5 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights cheated rm371, fraudulent business, fraudulent, while Article 10 discusses naga chaitanya, chaitanya couple, following naga.",
+                    "Impact": "Article 5 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights cheated rm371, fraudulent business, fraudulent, while Article 11 discusses detained mahmoud, mahmoud khalil, detained.",
+                    "Impact": "Article 5 has a Negative tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights sync routes, devices garmin, garmin wahoo, while Article 7 discusses handmaid tale, handmaid, fight gilead.",
+                    "Impact": "Article 6 has a Positive tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights sync routes, devices garmin, garmin wahoo, while Article 8 discusses tiktok, tiktok whim, went tiktok.",
+                    "Impact": "Article 6 has a Positive tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights sync routes, devices garmin, garmin wahoo, while Article 9 discusses earwax removed, gobs earwax, earwax.",
+                    "Impact": "Article 6 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights sync routes, devices garmin, garmin wahoo, while Article 10 discusses naga chaitanya, chaitanya couple, following naga.",
+                    "Impact": "Article 6 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights sync routes, devices garmin, garmin wahoo, while Article 11 discusses detained mahmoud, mahmoud khalil, detained.",
+                    "Impact": "Article 6 has a Positive tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights handmaid tale, handmaid, fight gilead, while Article 8 discusses tiktok, tiktok whim, went tiktok.",
+                    "Impact": "Article 7 has a Positive tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights handmaid tale, handmaid, fight gilead, while Article 9 discusses earwax removed, gobs earwax, earwax.",
+                    "Impact": "Article 7 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights handmaid tale, handmaid, fight gilead, while Article 10 discusses naga chaitanya, chaitanya couple, following naga.",
+                    "Impact": "Article 7 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights handmaid tale, handmaid, fight gilead, while Article 11 discusses detained mahmoud, mahmoud khalil, detained.",
+                    "Impact": "Article 7 has a Positive tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights tiktok, tiktok whim, went tiktok, while Article 9 discusses earwax removed, gobs earwax, earwax.",
+                    "Impact": "Article 8 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights tiktok, tiktok whim, went tiktok, while Article 10 discusses naga chaitanya, chaitanya couple, following naga.",
+                    "Impact": "Article 8 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights tiktok, tiktok whim, went tiktok, while Article 11 discusses detained mahmoud, mahmoud khalil, detained.",
+                    "Impact": "Article 8 has a Positive tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 9 highlights earwax removed, gobs earwax, earwax, while Article 10 discusses naga chaitanya, chaitanya couple, following naga.",
+                    "Impact": "Article 9 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 9 highlights earwax removed, gobs earwax, earwax, while Article 11 discusses detained mahmoud, mahmoud khalil, detained.",
+                    "Impact": "Article 9 has a Negative tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 10 highlights naga chaitanya, chaitanya couple, following naga, while Article 11 discusses detained mahmoud, mahmoud khalil, detained.",
+                    "Impact": "Article 10 has a Negative tone, while Article 11 has a Negative perspective."
+                }
+            ],
+            "Topic Overlap": {
+                "Common Topics": [],
+                "Unique Topics per Article": [
+                    [
+                        "recommendations based",
+                        "zdnet recommendations",
+                        "zdnet"
+                    ],
+                    [
+                        "queues use",
+                        "queue based",
+                        "message brokers"
+                    ],
+                    [
+                        "economics pandemic",
+                        "changing tech",
+                        "tech culture"
+                    ],
+                    [
+                        "book released",
+                        "amazon ads",
+                        "second book"
+                    ],
+                    [
+                        "fraudulent business",
+                        "cheated rm371",
+                        "fraudulent"
+                    ],
+                    [
+                        "devices garmin",
+                        "sync routes",
+                        "garmin wahoo"
+                    ],
+                    [
+                        "handmaid tale",
+                        "handmaid",
+                        "fight gilead"
+                    ],
+                    [
+                        "tiktok",
+                        "tiktok whim",
+                        "went tiktok"
+                    ],
+                    [
+                        "earwax",
+                        "earwax removed",
+                        "gobs earwax"
+                    ],
+                    [
+                        "following naga",
+                        "naga chaitanya",
+                        "chaitanya couple"
+                    ],
+                    [
+                        "detained",
+                        "mahmoud khalil",
+                        "detained mahmoud"
+                    ]
+                ]
+            }
+        },
+        "Final Sentiment Analysis": "Amazon's latest news coverage is mostly negative. Possible challenges ahead.",
+        "Audio": "amazon.mp3"
+    },
+    "Google": {
+        "Company": "Google",
+        "Articles": [
+            {
+                "title": "AI Task Management - Hoop Captures and Organizes Tasks Across Meetings and Messaging Apps (TrendHunter.com)",
+                "summary": "Hoop is an AI task management tool designed for professionals who juggle multiple meetings and communication platforms . it consolidates action items into a single, organized list that stays updated as users move between meetings and chat threads . this eliminates the need for manual note-taking and helps professionals stay on top of their responsibilities without switching between multiple apps .",
+                "sentiment": "Positive",
+                "topics": "hoop ai, hoop, ai task"
+            },
+            {
+                "title": "Fiber Optic Cables Market Trends, Shares, and Strategic Growth Opportunities 2025-2030: A $25+ Billion Global Landscape by 2030",
+                "summary": "the \"Fiber Optic Cables Market by Product (Components & Accessories, FO Cables), Product Type (Multi-Mode Fiber), Cable Installation, Fiber Type, Delivery, Buyer . the market is experiencing transformative shifts driven by rapid technological innovation . advancements in optical transmission, coupled with the pace of digital transformation, catalyze significant changes in the industry .",
+                "sentiment": "Positive",
+                "topics": "cables market, fiber cable, fiber optic"
+            },
+            {
+                "title": "Royal Enfield Bear 650 Review; Modern Classic Scrambler Or City Slicker?",
+                "summary": "the 650 is what Royal Enfield calls a 'street scrambler' it is meant primarily to be ridden on the road but will indulge if you want to hit some mild trails on the weekend . dual-purpose tyres, a slight increase in suspension travel and a two-in-1 exhaust make it significantly different from the Interceptor 650 .",
+                "sentiment": "Positive",
+                "topics": "interceptor 650, 650, royal enfield"
+            },
+            {
+                "title": "Another sign of a dealmaking comeback? Adtech firm Adform is exploring a sale.",
+                "summary": "a deal would mark the latest sign that the adtech M&A market is bouncing back after a couple of tepid years . the four people said Adform appointed a Swedish investment bank to lead the process . one of those people said the company asked prospective buyers to submit their bids in April .",
+                "sentiment": "Negative",
+                "topics": "adtech market, sign adtech, market bouncing"
+            },
+            {
+                "title": "Tech employees are getting the message: Play time's over",
+                "summary": "a trifecta of economics, pandemic-era realities, and political pressure is changing tech culture . companies are pushing to \"do more with less,\" founder says . \"my job is incredible, but it's also just a job. Family and personal health rank higher in my priority list,\" he writes .",
+                "sentiment": "Positive",
+                "topics": "tech culture, changing tech, economics pandemic"
+            },
+            {
+                "title": "Chrome disabling uBlock Origin is a serious security threat",
+                "summary": "google's recent decision to disable the popular ad-blocking extension uBlock Origin on Chrome is raising significant concerns about user security . this move has left many users vulnerable to a sudden influx of malicious ads that they weren't accustomed to seeing .",
+                "sentiment": "Negative",
+                "topics": "ublock origin, extension ublock, ad blocking"
+            },
+            {
+                "title": "Microsoft Discovers Remote Access Trojan (RAT) That Targets Crypto Wallets like Coinbase, Metamask",
+                "summary": "StilachiRAT steals sensitive credentials and targets cryptocurrency wallets . it has various anti-forensics features, such as clearing logs and checking whether it is contained in a sandbox . the malware is particularly skilled at avoiding detection .",
+                "sentiment": "Negative",
+                "topics": "stilachirat steals, stilachirat, malware"
+            },
+            {
+                "title": "Samsung’s One UI 7 is rolling out to Galaxy phones in April",
+                "summary": "one UI 7 will start rolling out to existing phones and tablets from April 7th worldwide . in the us the update will first arrive on 2024’s Galaxy S24 models, along with the Fold 6 and Flip 6 handsets, with other smartphones and tablets to follow .",
+                "sentiment": "Negative",
+                "topics": "galaxy s24, 2024 galaxy, existing phones"
+            },
+            {
+                "title": "Teenager Flees From Babysitting Nightmare, Sister Goes Ballistic Blasting Him On Social Media",
+                "summary": "a redditor found himself trapped in a never-ending babysitting gig . he decided to escape the madness, things took a turn so dramatic even reality television producers would take notes . one teen refuses to be his sister’s unpaid nanny anymore .",
+                "sentiment": "Negative",
+                "topics": "nanny anymore, unpaid nanny, nanny"
+            },
+            {
+                "title": "fafbseg 3.1.2",
+                "summary": "fafbseg is a tool to work with the flyWire and Google segmentations of the FAFB EM dataset . map locations or supervoxels to segmentation IDs load neuron meshes and skeletons from scratch query connectivity .",
+                "sentiment": "Negative",
+                "topics": "fafbseg tool, segmentations fafb, fafbseg"
+            },
+            {
+                "title": "Nvidia senior engineer explains why many employees don't talk about their equity",
+                "summary": "a senior engineer at Nvidia says employees don't talk about their equity's worth . he says he landed his own role by developing a niche set of skills . the company is still staffed largely by the \"old guard\"",
+                "sentiment": "Negative",
+                "topics": "engineer nvidia, talk equity, equity worth"
+            }
+        ],
+        "Comparative Sentiment Score": {
+            "Sentiment Distribution": {
+                "Positive": 4,
+                "Negative": 7,
+                "Neutral": 0
+            },
+            "Coverage Differences": [
+                {
+                    "Comparison": "Article 1 highlights hoop ai, hoop, ai task, while Article 2 discusses cables market, fiber cable, fiber optic.",
+                    "Impact": "Article 1 has a Positive tone, while Article 2 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights hoop ai, hoop, ai task, while Article 3 discusses interceptor 650, 650, royal enfield.",
+                    "Impact": "Article 1 has a Positive tone, while Article 3 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights hoop ai, hoop, ai task, while Article 4 discusses adtech market, sign adtech, market bouncing.",
+                    "Impact": "Article 1 has a Positive tone, while Article 4 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights hoop ai, hoop, ai task, while Article 5 discusses tech culture, changing tech, economics pandemic.",
+                    "Impact": "Article 1 has a Positive tone, while Article 5 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights hoop ai, hoop, ai task, while Article 6 discusses ublock origin, extension ublock, ad blocking.",
+                    "Impact": "Article 1 has a Positive tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights hoop ai, hoop, ai task, while Article 7 discusses stilachirat steals, stilachirat, malware.",
+                    "Impact": "Article 1 has a Positive tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights hoop ai, hoop, ai task, while Article 8 discusses galaxy s24, 2024 galaxy, existing phones.",
+                    "Impact": "Article 1 has a Positive tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights hoop ai, hoop, ai task, while Article 9 discusses nanny anymore, unpaid nanny, nanny.",
+                    "Impact": "Article 1 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights hoop ai, hoop, ai task, while Article 10 discusses fafbseg tool, segmentations fafb, fafbseg.",
+                    "Impact": "Article 1 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights hoop ai, hoop, ai task, while Article 11 discusses engineer nvidia, talk equity, equity worth.",
+                    "Impact": "Article 1 has a Positive tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights cables market, fiber cable, fiber optic, while Article 3 discusses interceptor 650, 650, royal enfield.",
+                    "Impact": "Article 2 has a Positive tone, while Article 3 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights cables market, fiber cable, fiber optic, while Article 4 discusses adtech market, sign adtech, market bouncing.",
+                    "Impact": "Article 2 has a Positive tone, while Article 4 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights cables market, fiber cable, fiber optic, while Article 5 discusses tech culture, changing tech, economics pandemic.",
+                    "Impact": "Article 2 has a Positive tone, while Article 5 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights cables market, fiber cable, fiber optic, while Article 6 discusses ublock origin, extension ublock, ad blocking.",
+                    "Impact": "Article 2 has a Positive tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights cables market, fiber cable, fiber optic, while Article 7 discusses stilachirat steals, stilachirat, malware.",
+                    "Impact": "Article 2 has a Positive tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights cables market, fiber cable, fiber optic, while Article 8 discusses galaxy s24, 2024 galaxy, existing phones.",
+                    "Impact": "Article 2 has a Positive tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights cables market, fiber cable, fiber optic, while Article 9 discusses nanny anymore, unpaid nanny, nanny.",
+                    "Impact": "Article 2 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights cables market, fiber cable, fiber optic, while Article 10 discusses fafbseg tool, segmentations fafb, fafbseg.",
+                    "Impact": "Article 2 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights cables market, fiber cable, fiber optic, while Article 11 discusses engineer nvidia, talk equity, equity worth.",
+                    "Impact": "Article 2 has a Positive tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights interceptor 650, 650, royal enfield, while Article 4 discusses adtech market, sign adtech, market bouncing.",
+                    "Impact": "Article 3 has a Positive tone, while Article 4 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights interceptor 650, 650, royal enfield, while Article 5 discusses tech culture, changing tech, economics pandemic.",
+                    "Impact": "Article 3 has a Positive tone, while Article 5 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights interceptor 650, 650, royal enfield, while Article 6 discusses ublock origin, extension ublock, ad blocking.",
+                    "Impact": "Article 3 has a Positive tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights interceptor 650, 650, royal enfield, while Article 7 discusses stilachirat steals, stilachirat, malware.",
+                    "Impact": "Article 3 has a Positive tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights interceptor 650, 650, royal enfield, while Article 8 discusses galaxy s24, 2024 galaxy, existing phones.",
+                    "Impact": "Article 3 has a Positive tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights interceptor 650, 650, royal enfield, while Article 9 discusses nanny anymore, unpaid nanny, nanny.",
+                    "Impact": "Article 3 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights interceptor 650, 650, royal enfield, while Article 10 discusses fafbseg tool, segmentations fafb, fafbseg.",
+                    "Impact": "Article 3 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights interceptor 650, 650, royal enfield, while Article 11 discusses engineer nvidia, talk equity, equity worth.",
+                    "Impact": "Article 3 has a Positive tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights adtech market, sign adtech, market bouncing, while Article 5 discusses tech culture, changing tech, economics pandemic.",
+                    "Impact": "Article 4 has a Negative tone, while Article 5 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights adtech market, sign adtech, market bouncing, while Article 6 discusses ublock origin, extension ublock, ad blocking.",
+                    "Impact": "Article 4 has a Negative tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights adtech market, sign adtech, market bouncing, while Article 7 discusses stilachirat steals, stilachirat, malware.",
+                    "Impact": "Article 4 has a Negative tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights adtech market, sign adtech, market bouncing, while Article 8 discusses galaxy s24, 2024 galaxy, existing phones.",
+                    "Impact": "Article 4 has a Negative tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights adtech market, sign adtech, market bouncing, while Article 9 discusses nanny anymore, unpaid nanny, nanny.",
+                    "Impact": "Article 4 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights adtech market, sign adtech, market bouncing, while Article 10 discusses fafbseg tool, segmentations fafb, fafbseg.",
+                    "Impact": "Article 4 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights adtech market, sign adtech, market bouncing, while Article 11 discusses engineer nvidia, talk equity, equity worth.",
+                    "Impact": "Article 4 has a Negative tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights tech culture, changing tech, economics pandemic, while Article 6 discusses ublock origin, extension ublock, ad blocking.",
+                    "Impact": "Article 5 has a Positive tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights tech culture, changing tech, economics pandemic, while Article 7 discusses stilachirat steals, stilachirat, malware.",
+                    "Impact": "Article 5 has a Positive tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights tech culture, changing tech, economics pandemic, while Article 8 discusses galaxy s24, 2024 galaxy, existing phones.",
+                    "Impact": "Article 5 has a Positive tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights tech culture, changing tech, economics pandemic, while Article 9 discusses nanny anymore, unpaid nanny, nanny.",
+                    "Impact": "Article 5 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights tech culture, changing tech, economics pandemic, while Article 10 discusses fafbseg tool, segmentations fafb, fafbseg.",
+                    "Impact": "Article 5 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights tech culture, changing tech, economics pandemic, while Article 11 discusses engineer nvidia, talk equity, equity worth.",
+                    "Impact": "Article 5 has a Positive tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights ublock origin, extension ublock, ad blocking, while Article 7 discusses stilachirat steals, stilachirat, malware.",
+                    "Impact": "Article 6 has a Negative tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights ublock origin, extension ublock, ad blocking, while Article 8 discusses galaxy s24, 2024 galaxy, existing phones.",
+                    "Impact": "Article 6 has a Negative tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights ublock origin, extension ublock, ad blocking, while Article 9 discusses nanny anymore, unpaid nanny, nanny.",
+                    "Impact": "Article 6 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights ublock origin, extension ublock, ad blocking, while Article 10 discusses fafbseg tool, segmentations fafb, fafbseg.",
+                    "Impact": "Article 6 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights ublock origin, extension ublock, ad blocking, while Article 11 discusses engineer nvidia, talk equity, equity worth.",
+                    "Impact": "Article 6 has a Negative tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights stilachirat steals, stilachirat, malware, while Article 8 discusses galaxy s24, 2024 galaxy, existing phones.",
+                    "Impact": "Article 7 has a Negative tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights stilachirat steals, stilachirat, malware, while Article 9 discusses nanny anymore, unpaid nanny, nanny.",
+                    "Impact": "Article 7 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights stilachirat steals, stilachirat, malware, while Article 10 discusses fafbseg tool, segmentations fafb, fafbseg.",
+                    "Impact": "Article 7 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights stilachirat steals, stilachirat, malware, while Article 11 discusses engineer nvidia, talk equity, equity worth.",
+                    "Impact": "Article 7 has a Negative tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights galaxy s24, 2024 galaxy, existing phones, while Article 9 discusses nanny anymore, unpaid nanny, nanny.",
+                    "Impact": "Article 8 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights galaxy s24, 2024 galaxy, existing phones, while Article 10 discusses fafbseg tool, segmentations fafb, fafbseg.",
+                    "Impact": "Article 8 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights galaxy s24, 2024 galaxy, existing phones, while Article 11 discusses engineer nvidia, talk equity, equity worth.",
+                    "Impact": "Article 8 has a Negative tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 9 highlights nanny anymore, unpaid nanny, nanny, while Article 10 discusses fafbseg tool, segmentations fafb, fafbseg.",
+                    "Impact": "Article 9 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 9 highlights nanny anymore, unpaid nanny, nanny, while Article 11 discusses engineer nvidia, talk equity, equity worth.",
+                    "Impact": "Article 9 has a Negative tone, while Article 11 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 10 highlights fafbseg tool, segmentations fafb, fafbseg, while Article 11 discusses engineer nvidia, talk equity, equity worth.",
+                    "Impact": "Article 10 has a Negative tone, while Article 11 has a Negative perspective."
+                }
+            ],
+            "Topic Overlap": {
+                "Common Topics": [],
+                "Unique Topics per Article": [
+                    [
+                        "ai task",
+                        "hoop",
+                        "hoop ai"
+                    ],
+                    [
+                        "cables market",
+                        "fiber optic",
+                        "fiber cable"
+                    ],
+                    [
+                        "650",
+                        "interceptor 650",
+                        "royal enfield"
+                    ],
+                    [
+                        "adtech market",
+                        "sign adtech",
+                        "market bouncing"
+                    ],
+                    [
+                        "economics pandemic",
+                        "changing tech",
+                        "tech culture"
+                    ],
+                    [
+                        "extension ublock",
+                        "ublock origin",
+                        "ad blocking"
+                    ],
+                    [
+                        "malware",
+                        "stilachirat",
+                        "stilachirat steals"
+                    ],
+                    [
+                        "existing phones",
+                        "galaxy s24",
+                        "2024 galaxy"
+                    ],
+                    [
+                        "nanny anymore",
+                        "unpaid nanny",
+                        "nanny"
+                    ],
+                    [
+                        "segmentations fafb",
+                        "fafbseg tool",
+                        "fafbseg"
+                    ],
+                    [
+                        "talk equity",
+                        "equity worth",
+                        "engineer nvidia"
+                    ]
+                ]
+            }
+        },
+        "Final Sentiment Analysis": "Google's latest news coverage is mostly negative. Possible challenges ahead.",
+        "Audio": "google.mp3"
+    },
+    "JP Morgan": {
+        "Company": "JP Morgan",
+        "Articles": [
+            {
+                "title": "TEFAF Maastricht 2025 is a brush with wonderfully niche art, design and antiquities",
+                "summary": "the 38th edition of the fair – TEFAF standing for The European Fine Art Foundation – blends antiquity and the contemporary with pep and showmanship flair . visitors weigh up potential acquisitions in whatever niche they collect, whether 18th-century snuffboxes or Flemish tapestries . there’s also time for a glass of something and some sushi in the aisles, and to discuss the prevailing trade winds",
+                "sentiment": "Positive",
+                "topics": "flemish tapestries, century snuffboxes, european fine"
+            },
+            {
+                "title": "Harris meeting JP Morgan, BNY and Goldman Sachs in New York today to get 'lay of the land'",
+                "summary": "the big message on Harris’ trip has been around trade, with the Tánaiste stating that things are likely to be “tumultuous” before an agreement is made between the EU and the US on tariffs . in new york, back-to-back meetings were held with major industry players . tomorrow, the government will update his colleagues about what business and trade policy information he has gleaned from the trip .",
+                "sentiment": "Positive",
+                "topics": "trade policy, harris trip, tariffs new"
+            },
+            {
+                "title": "Tata Steel, JSW Steel, SAIL, Jindal Steel, NMDC shares gain as DGTR recommends safeguard duty",
+                "summary": "the duty on flat steel products will be levied for 200 days, pending final investigation . DGTR commenced an investigation into sudden surge in imports of non-alloy and alloy steel flat products in December 2024 . shares of SAIL, Hindustan Zinc, NMDC, Tata Steel, JSW Steel and Jindal Stainless Steel emerged among the top Nifty metal gainers .",
+                "sentiment": "Positive",
+                "topics": "flat steel, steel flat, steel products"
+            },
+            {
+                "title": "The silence of opioids-dependent chronic pain patients: A text mining analysis from sex and gender perspective",
+                "summary": "a prospective mixed-methods study was designed and performed at Pain Unit (PU) including 238 real world patients with CNCP divided in controls (n = 206) and n = 32) due to DSM-5 diagnosis Variables related to pain, sleep, mental and health status were collected in together with sex and gender interaction, in pain status .",
+                "sentiment": "Negative",
+                "topics": "patients cncp, pain status, pain sleep"
+            },
+            {
+                "title": "The end of the genetic paradigm of cancer",
+                "summary": "genome sequencing of cancer and normal tissues, alongside single-cell transcriptomics, continues to produce findings that challenge the idea that cancer is a ‘genetic disease’, as posited by the somatic mutation theory . but beyond genetic causation, the new results lend credence to old ideas from organismal biology .",
+                "sentiment": "Positive",
+                "topics": "sequencing cancer, cancer genetic, cell transcriptomics"
+            },
+            {
+                "title": "With Southwest’s Big Change, It’s Time to Rethink the Network",
+                "summary": "the slaying of a sacred cow is one of the two big things that get Southwest back to industry-leading margin, that and stop flying places that lose money . it’s really going to be about price and schedule since it has no other tangible advantages . the key has always been about dominating your legacy carriers .",
+                "sentiment": "Negative",
+                "topics": "southwest industry, legacy carriers, sacred cow"
+            },
+            {
+                "title": "Donald Trump and Elon Musk won’t be able to go on ignoring the damage to the bottom line",
+                "summary": "he recently suggested that the result of the last UK general election should be reversed by the simple expedient of King Charles III removing Keir Starmer from office . he intervened in german politics by urging german voters to support the anti-EU Alternativ Für Deutschland party (AFD)",
+                "sentiment": "Negative",
+                "topics": "intervened german, german voters, german politics"
+            },
+            {
+                "title": "Independent Advisor Alliance Acquires Shares of 4,460 JP Morgan BetaBuilders U.S. Equity ETF (BATS:BBUS)",
+                "summary": "independent advisor alliance acquired a new stake in shares of JP Morgan BetaBuilders U.S. Equity ETF . the fund acquired 4,460 shares of the company’s stock, valued at approximately $472,000 . other large investors have also recently added to or reduced their stakes .",
+                "sentiment": "Negative",
+                "topics": "equity etf, betabuilders equity, advisor alliance"
+            },
+            {
+                "title": "'Industry exorcising Musk'...",
+                "summary": "if Musk is killing Tesla, polestar wants to deliver the final blow . they are offering anyone who owns or leases a Tesla $5,000 off a lease on a brand new Polestar 3 . if they trade in their \"swasticars,\" polestar is offering a $20,000 discount .",
+                "sentiment": "Negative",
+                "topics": "tesla polestar, polestar offering, polestar trade"
+            },
+            {
+                "title": "Energy Fantasy Versus Reality In Woke-Land -- Part III",
+                "summary": "the fealty to woke orthodoxies has in the past extended in particular to the subject of “climate change” in April 2021, JPM announced plans to facilitate investment of $2.5 trillion in what they called \"climate action and sustainable development\"",
+                "sentiment": "Positive",
+                "topics": "jpm announced, 2021 jpm, climate action"
+            },
+            {
+                "title": "JP Morgan Cut Apellis' Price Forecasts, Cites Longer Peak Sales Timing For Syfovre",
+                "summary": "JP Morgan highlighted its survey related to Apellis Pharmaceuticals, Inc.'s (NASDAQ:APLS) Syfovre and Astellas Pharma Inc’s (OTC:ALPMF) Izervay . on average, surveyed physicians treated around 388 geographic atrophy patients .",
+                "sentiment": "Positive",
+                "topics": "atrophy patients, surveyed physicians, apellis pharmaceuticals"
+            }
+        ],
+        "Comparative Sentiment Score": {
+            "Sentiment Distribution": {
+                "Positive": 6,
+                "Negative": 5,
+                "Neutral": 0
+            },
+            "Coverage Differences": [
+                {
+                    "Comparison": "Article 1 highlights flemish tapestries, century snuffboxes, european fine, while Article 2 discusses trade policy, harris trip, tariffs new.",
+                    "Impact": "Article 1 has a Positive tone, while Article 2 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights flemish tapestries, century snuffboxes, european fine, while Article 3 discusses flat steel, steel flat, steel products.",
+                    "Impact": "Article 1 has a Positive tone, while Article 3 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights flemish tapestries, century snuffboxes, european fine, while Article 4 discusses patients cncp, pain status, pain sleep.",
+                    "Impact": "Article 1 has a Positive tone, while Article 4 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights flemish tapestries, century snuffboxes, european fine, while Article 5 discusses sequencing cancer, cancer genetic, cell transcriptomics.",
+                    "Impact": "Article 1 has a Positive tone, while Article 5 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights flemish tapestries, century snuffboxes, european fine, while Article 6 discusses southwest industry, legacy carriers, sacred cow.",
+                    "Impact": "Article 1 has a Positive tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights flemish tapestries, century snuffboxes, european fine, while Article 7 discusses intervened german, german voters, german politics.",
+                    "Impact": "Article 1 has a Positive tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights flemish tapestries, century snuffboxes, european fine, while Article 8 discusses equity etf, betabuilders equity, advisor alliance.",
+                    "Impact": "Article 1 has a Positive tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights flemish tapestries, century snuffboxes, european fine, while Article 9 discusses tesla polestar, polestar offering, polestar trade.",
+                    "Impact": "Article 1 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights flemish tapestries, century snuffboxes, european fine, while Article 10 discusses jpm announced, 2021 jpm, climate action.",
+                    "Impact": "Article 1 has a Positive tone, while Article 10 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights flemish tapestries, century snuffboxes, european fine, while Article 11 discusses atrophy patients, surveyed physicians, apellis pharmaceuticals.",
+                    "Impact": "Article 1 has a Positive tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights trade policy, harris trip, tariffs new, while Article 3 discusses flat steel, steel flat, steel products.",
+                    "Impact": "Article 2 has a Positive tone, while Article 3 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights trade policy, harris trip, tariffs new, while Article 4 discusses patients cncp, pain status, pain sleep.",
+                    "Impact": "Article 2 has a Positive tone, while Article 4 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights trade policy, harris trip, tariffs new, while Article 5 discusses sequencing cancer, cancer genetic, cell transcriptomics.",
+                    "Impact": "Article 2 has a Positive tone, while Article 5 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights trade policy, harris trip, tariffs new, while Article 6 discusses southwest industry, legacy carriers, sacred cow.",
+                    "Impact": "Article 2 has a Positive tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights trade policy, harris trip, tariffs new, while Article 7 discusses intervened german, german voters, german politics.",
+                    "Impact": "Article 2 has a Positive tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights trade policy, harris trip, tariffs new, while Article 8 discusses equity etf, betabuilders equity, advisor alliance.",
+                    "Impact": "Article 2 has a Positive tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights trade policy, harris trip, tariffs new, while Article 9 discusses tesla polestar, polestar offering, polestar trade.",
+                    "Impact": "Article 2 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights trade policy, harris trip, tariffs new, while Article 10 discusses jpm announced, 2021 jpm, climate action.",
+                    "Impact": "Article 2 has a Positive tone, while Article 10 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights trade policy, harris trip, tariffs new, while Article 11 discusses atrophy patients, surveyed physicians, apellis pharmaceuticals.",
+                    "Impact": "Article 2 has a Positive tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights flat steel, steel flat, steel products, while Article 4 discusses patients cncp, pain status, pain sleep.",
+                    "Impact": "Article 3 has a Positive tone, while Article 4 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights flat steel, steel flat, steel products, while Article 5 discusses sequencing cancer, cancer genetic, cell transcriptomics.",
+                    "Impact": "Article 3 has a Positive tone, while Article 5 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights flat steel, steel flat, steel products, while Article 6 discusses southwest industry, legacy carriers, sacred cow.",
+                    "Impact": "Article 3 has a Positive tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights flat steel, steel flat, steel products, while Article 7 discusses intervened german, german voters, german politics.",
+                    "Impact": "Article 3 has a Positive tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights flat steel, steel flat, steel products, while Article 8 discusses equity etf, betabuilders equity, advisor alliance.",
+                    "Impact": "Article 3 has a Positive tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights flat steel, steel flat, steel products, while Article 9 discusses tesla polestar, polestar offering, polestar trade.",
+                    "Impact": "Article 3 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights flat steel, steel flat, steel products, while Article 10 discusses jpm announced, 2021 jpm, climate action.",
+                    "Impact": "Article 3 has a Positive tone, while Article 10 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights flat steel, steel flat, steel products, while Article 11 discusses atrophy patients, surveyed physicians, apellis pharmaceuticals.",
+                    "Impact": "Article 3 has a Positive tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights patients cncp, pain status, pain sleep, while Article 5 discusses sequencing cancer, cancer genetic, cell transcriptomics.",
+                    "Impact": "Article 4 has a Negative tone, while Article 5 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights patients cncp, pain status, pain sleep, while Article 6 discusses southwest industry, legacy carriers, sacred cow.",
+                    "Impact": "Article 4 has a Negative tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights patients cncp, pain status, pain sleep, while Article 7 discusses intervened german, german voters, german politics.",
+                    "Impact": "Article 4 has a Negative tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights patients cncp, pain status, pain sleep, while Article 8 discusses equity etf, betabuilders equity, advisor alliance.",
+                    "Impact": "Article 4 has a Negative tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights patients cncp, pain status, pain sleep, while Article 9 discusses tesla polestar, polestar offering, polestar trade.",
+                    "Impact": "Article 4 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights patients cncp, pain status, pain sleep, while Article 10 discusses jpm announced, 2021 jpm, climate action.",
+                    "Impact": "Article 4 has a Negative tone, while Article 10 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights patients cncp, pain status, pain sleep, while Article 11 discusses atrophy patients, surveyed physicians, apellis pharmaceuticals.",
+                    "Impact": "Article 4 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights sequencing cancer, cancer genetic, cell transcriptomics, while Article 6 discusses southwest industry, legacy carriers, sacred cow.",
+                    "Impact": "Article 5 has a Positive tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights sequencing cancer, cancer genetic, cell transcriptomics, while Article 7 discusses intervened german, german voters, german politics.",
+                    "Impact": "Article 5 has a Positive tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights sequencing cancer, cancer genetic, cell transcriptomics, while Article 8 discusses equity etf, betabuilders equity, advisor alliance.",
+                    "Impact": "Article 5 has a Positive tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights sequencing cancer, cancer genetic, cell transcriptomics, while Article 9 discusses tesla polestar, polestar offering, polestar trade.",
+                    "Impact": "Article 5 has a Positive tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights sequencing cancer, cancer genetic, cell transcriptomics, while Article 10 discusses jpm announced, 2021 jpm, climate action.",
+                    "Impact": "Article 5 has a Positive tone, while Article 10 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights sequencing cancer, cancer genetic, cell transcriptomics, while Article 11 discusses atrophy patients, surveyed physicians, apellis pharmaceuticals.",
+                    "Impact": "Article 5 has a Positive tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights southwest industry, legacy carriers, sacred cow, while Article 7 discusses intervened german, german voters, german politics.",
+                    "Impact": "Article 6 has a Negative tone, while Article 7 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights southwest industry, legacy carriers, sacred cow, while Article 8 discusses equity etf, betabuilders equity, advisor alliance.",
+                    "Impact": "Article 6 has a Negative tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights southwest industry, legacy carriers, sacred cow, while Article 9 discusses tesla polestar, polestar offering, polestar trade.",
+                    "Impact": "Article 6 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights southwest industry, legacy carriers, sacred cow, while Article 10 discusses jpm announced, 2021 jpm, climate action.",
+                    "Impact": "Article 6 has a Negative tone, while Article 10 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights southwest industry, legacy carriers, sacred cow, while Article 11 discusses atrophy patients, surveyed physicians, apellis pharmaceuticals.",
+                    "Impact": "Article 6 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights intervened german, german voters, german politics, while Article 8 discusses equity etf, betabuilders equity, advisor alliance.",
+                    "Impact": "Article 7 has a Negative tone, while Article 8 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights intervened german, german voters, german politics, while Article 9 discusses tesla polestar, polestar offering, polestar trade.",
+                    "Impact": "Article 7 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights intervened german, german voters, german politics, while Article 10 discusses jpm announced, 2021 jpm, climate action.",
+                    "Impact": "Article 7 has a Negative tone, while Article 10 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights intervened german, german voters, german politics, while Article 11 discusses atrophy patients, surveyed physicians, apellis pharmaceuticals.",
+                    "Impact": "Article 7 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights equity etf, betabuilders equity, advisor alliance, while Article 9 discusses tesla polestar, polestar offering, polestar trade.",
+                    "Impact": "Article 8 has a Negative tone, while Article 9 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights equity etf, betabuilders equity, advisor alliance, while Article 10 discusses jpm announced, 2021 jpm, climate action.",
+                    "Impact": "Article 8 has a Negative tone, while Article 10 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights equity etf, betabuilders equity, advisor alliance, while Article 11 discusses atrophy patients, surveyed physicians, apellis pharmaceuticals.",
+                    "Impact": "Article 8 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 9 highlights tesla polestar, polestar offering, polestar trade, while Article 10 discusses jpm announced, 2021 jpm, climate action.",
+                    "Impact": "Article 9 has a Negative tone, while Article 10 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 9 highlights tesla polestar, polestar offering, polestar trade, while Article 11 discusses atrophy patients, surveyed physicians, apellis pharmaceuticals.",
+                    "Impact": "Article 9 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 10 highlights jpm announced, 2021 jpm, climate action, while Article 11 discusses atrophy patients, surveyed physicians, apellis pharmaceuticals.",
+                    "Impact": "Article 10 has a Positive tone, while Article 11 has a Positive perspective."
+                }
+            ],
+            "Topic Overlap": {
+                "Common Topics": [],
+                "Unique Topics per Article": [
+                    [
+                        "century snuffboxes",
+                        "flemish tapestries",
+                        "european fine"
+                    ],
+                    [
+                        "trade policy",
+                        "tariffs new",
+                        "harris trip"
+                    ],
+                    [
+                        "flat steel",
+                        "steel flat",
+                        "steel products"
+                    ],
+                    [
+                        "patients cncp",
+                        "pain status",
+                        "pain sleep"
+                    ],
+                    [
+                        "cell transcriptomics",
+                        "sequencing cancer",
+                        "cancer genetic"
+                    ],
+                    [
+                        "sacred cow",
+                        "legacy carriers",
+                        "southwest industry"
+                    ],
+                    [
+                        "german voters",
+                        "intervened german",
+                        "german politics"
+                    ],
+                    [
+                        "equity etf",
+                        "betabuilders equity",
+                        "advisor alliance"
+                    ],
+                    [
+                        "polestar offering",
+                        "polestar trade",
+                        "tesla polestar"
+                    ],
+                    [
+                        "jpm announced",
+                        "climate action",
+                        "2021 jpm"
+                    ],
+                    [
+                        "atrophy patients",
+                        "surveyed physicians",
+                        "apellis pharmaceuticals"
+                    ]
+                ]
+            }
+        },
+        "Final Sentiment Analysis": "JP Morgan's latest news coverage is mostly positive. Potential stock growth expected.",
+        "Audio": "jp_morgan.mp3"
+    },
+    "Tesla": {
+        "Company": "Tesla",
+        "Articles": [
+            {
+                "title": "Vibe Coding",
+                "summary": "a slang term coined by OpenAI co-founder and former AI leader Andrej Karpathy . the term \"vibe coding\" gained traction in early 2025 after reports emerged that 25 percent of the winter 2025 Y Combinator batch relied on 95 percent AI-generated code .",
+                "sentiment": "Negative",
+                "topics": "coined openai, vibe coding, coding gained"
+            },
+            {
+                "title": "“What do I look for?” Promise and pitfalls in buying a used EV",
+                "summary": "the average price of a used battery electric vehicle (BEV) on autoTrader.ca fell to $42,398 in February, a 16.3% decline year-over-year decline . the impact of the Trump tariffs on North American supply chains could slow new autistic supply chains .",
+                "sentiment": "Negative",
+                "topics": "electric vehicle, vehicle bev, battery electric"
+            },
+            {
+                "title": "Honduras plane crash: Aurelio Martinez, one of Central America's most gifted performers, killed. Check details",
+                "summary": "the plane crashed off the coast of a Caribbean island en route to the mainland city of La Ceiba . the plane carried 17 passengers and crew, five of whom were rescued and hospitalized . a famous musician went on to become a trailblazing politician .",
+                "sentiment": "Negative",
+                "topics": "plane crashed, plane carried, crashed coast"
+            },
+            {
+                "title": "Thousands of Tesla owners doxxed. The only way to get off the list? Sell your car",
+                "summary": "a website has surfaced with address and contact information of thousands of Tesla owners . the only way to get off the list is to prove that you’ve sold your car . protesters have been pretty clear in their reasoning why .",
+                "sentiment": "Negative",
+                "topics": "car protesters, tesla owners, thousands tesla"
+            },
+            {
+                "title": "'Left is the party of violence & hate': Musk says as FBI investigates 'potential act of terrorism' after Tesla vehicles torched in Las Vegas",
+                "summary": "the attack is being investigated by the FBI as a potential act of terrorism . Tesla CEO Elon Musk condemned the attack as \"terrorism\" he criticised the left for promoting \"violence\" and \"hate\"",
+                "sentiment": "Negative",
+                "topics": "terrorism tesla, attack investigated, elon musk"
+            },
+            {
+                "title": "Trump tariffs creating ‘high uncertainty’, Bank of Japan warns; Musk’s X ‘valued at $44bn again’ – business live",
+                "summary": "the recent slump in the value of X means that his vast stake in the electric car market is no longer his most valuable asset . this story appeared on theguardian.com, 2025-03-19 07:43:35 .",
+                "sentiment": "Negative",
+                "topics": "slump value, valuable asset, value"
+            },
+            {
+                "title": "Elon Musk is MIA as a CEO. He's not alone.",
+                "summary": "analyst says the drop of some 50% of Tesla's market cap is unprecedented in the auto industry . he is continuing to play Donald Trump's all-powerful \"first buddy\" in washington .",
+                "sentiment": "Positive",
+                "topics": "tesla market, tesla, 50 tesla"
+            },
+            {
+                "title": "I'm a Tesla investor and I've got millions in the company. I think Elon Musk is key to Tesla's success, but it can endure without him.",
+                "summary": "a fifth of the firm's $137 million portfolio was in Tesla stock last month . Tsai said Musk's ties to the Trump administration were a \"significantly positive event\" for Tesla .",
+                "sentiment": "Positive",
+                "topics": "tesla stock, portfolio tesla, musk ties"
+            },
+            {
+                "title": "I'm a Tesla investor and I've got millions in the company. I think Elon Musk is key to Tesla's success, but it can endure without him",
+                "summary": "investor Christopher Tsai says a visionary might no longer be with the company doesn't necessarily mean we would exit . the investor said of Elon Musk's importance to Tesla .",
+                "sentiment": "Positive",
+                "topics": "says visionary, visionary, visionary longer"
+            },
+            {
+                "title": "Vancouver International Auto Show removes Tesla, citing safety concerns at event",
+                "summary": "citing safety concerns at event Vancouver International Auto Show removes Tesla . he has been removed from participating in this week's Vancouver international Auto Show .",
+                "sentiment": "Negative",
+                "topics": "removes tesla, tesla removed, tesla"
+            },
+            {
+                "title": "Elon Musk's Tesla Secures First Approval Towards Rolling Out Robotaxi In California",
+                "summary": "Elon Musk's Tesla Inc. (NASDAQ:TSLA) has been granted its first permit in California . it is a crucial step towards launching a robotaxi service .",
+                "sentiment": "Positive",
+                "topics": "permit california, musk tesla, launching robotaxi"
+            }
+        ],
+        "Comparative Sentiment Score": {
+            "Sentiment Distribution": {
+                "Positive": 4,
+                "Negative": 7,
+                "Neutral": 0
+            },
+            "Coverage Differences": [
+                {
+                    "Comparison": "Article 1 highlights coined openai, vibe coding, coding gained, while Article 2 discusses electric vehicle, vehicle bev, battery electric.",
+                    "Impact": "Article 1 has a Negative tone, while Article 2 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights coined openai, vibe coding, coding gained, while Article 3 discusses plane crashed, plane carried, crashed coast.",
+                    "Impact": "Article 1 has a Negative tone, while Article 3 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights coined openai, vibe coding, coding gained, while Article 4 discusses car protesters, tesla owners, thousands tesla.",
+                    "Impact": "Article 1 has a Negative tone, while Article 4 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights coined openai, vibe coding, coding gained, while Article 5 discusses terrorism tesla, attack investigated, elon musk.",
+                    "Impact": "Article 1 has a Negative tone, while Article 5 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights coined openai, vibe coding, coding gained, while Article 6 discusses slump value, valuable asset, value.",
+                    "Impact": "Article 1 has a Negative tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights coined openai, vibe coding, coding gained, while Article 7 discusses tesla market, tesla, 50 tesla.",
+                    "Impact": "Article 1 has a Negative tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights coined openai, vibe coding, coding gained, while Article 8 discusses tesla stock, portfolio tesla, musk ties.",
+                    "Impact": "Article 1 has a Negative tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights coined openai, vibe coding, coding gained, while Article 9 discusses says visionary, visionary, visionary longer.",
+                    "Impact": "Article 1 has a Negative tone, while Article 9 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights coined openai, vibe coding, coding gained, while Article 10 discusses removes tesla, tesla removed, tesla.",
+                    "Impact": "Article 1 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 1 highlights coined openai, vibe coding, coding gained, while Article 11 discusses permit california, musk tesla, launching robotaxi.",
+                    "Impact": "Article 1 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights electric vehicle, vehicle bev, battery electric, while Article 3 discusses plane crashed, plane carried, crashed coast.",
+                    "Impact": "Article 2 has a Negative tone, while Article 3 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights electric vehicle, vehicle bev, battery electric, while Article 4 discusses car protesters, tesla owners, thousands tesla.",
+                    "Impact": "Article 2 has a Negative tone, while Article 4 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights electric vehicle, vehicle bev, battery electric, while Article 5 discusses terrorism tesla, attack investigated, elon musk.",
+                    "Impact": "Article 2 has a Negative tone, while Article 5 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights electric vehicle, vehicle bev, battery electric, while Article 6 discusses slump value, valuable asset, value.",
+                    "Impact": "Article 2 has a Negative tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights electric vehicle, vehicle bev, battery electric, while Article 7 discusses tesla market, tesla, 50 tesla.",
+                    "Impact": "Article 2 has a Negative tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights electric vehicle, vehicle bev, battery electric, while Article 8 discusses tesla stock, portfolio tesla, musk ties.",
+                    "Impact": "Article 2 has a Negative tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights electric vehicle, vehicle bev, battery electric, while Article 9 discusses says visionary, visionary, visionary longer.",
+                    "Impact": "Article 2 has a Negative tone, while Article 9 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights electric vehicle, vehicle bev, battery electric, while Article 10 discusses removes tesla, tesla removed, tesla.",
+                    "Impact": "Article 2 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 2 highlights electric vehicle, vehicle bev, battery electric, while Article 11 discusses permit california, musk tesla, launching robotaxi.",
+                    "Impact": "Article 2 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights plane crashed, plane carried, crashed coast, while Article 4 discusses car protesters, tesla owners, thousands tesla.",
+                    "Impact": "Article 3 has a Negative tone, while Article 4 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights plane crashed, plane carried, crashed coast, while Article 5 discusses terrorism tesla, attack investigated, elon musk.",
+                    "Impact": "Article 3 has a Negative tone, while Article 5 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights plane crashed, plane carried, crashed coast, while Article 6 discusses slump value, valuable asset, value.",
+                    "Impact": "Article 3 has a Negative tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights plane crashed, plane carried, crashed coast, while Article 7 discusses tesla market, tesla, 50 tesla.",
+                    "Impact": "Article 3 has a Negative tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights plane crashed, plane carried, crashed coast, while Article 8 discusses tesla stock, portfolio tesla, musk ties.",
+                    "Impact": "Article 3 has a Negative tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights plane crashed, plane carried, crashed coast, while Article 9 discusses says visionary, visionary, visionary longer.",
+                    "Impact": "Article 3 has a Negative tone, while Article 9 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights plane crashed, plane carried, crashed coast, while Article 10 discusses removes tesla, tesla removed, tesla.",
+                    "Impact": "Article 3 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 3 highlights plane crashed, plane carried, crashed coast, while Article 11 discusses permit california, musk tesla, launching robotaxi.",
+                    "Impact": "Article 3 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights car protesters, tesla owners, thousands tesla, while Article 5 discusses terrorism tesla, attack investigated, elon musk.",
+                    "Impact": "Article 4 has a Negative tone, while Article 5 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights car protesters, tesla owners, thousands tesla, while Article 6 discusses slump value, valuable asset, value.",
+                    "Impact": "Article 4 has a Negative tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights car protesters, tesla owners, thousands tesla, while Article 7 discusses tesla market, tesla, 50 tesla.",
+                    "Impact": "Article 4 has a Negative tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights car protesters, tesla owners, thousands tesla, while Article 8 discusses tesla stock, portfolio tesla, musk ties.",
+                    "Impact": "Article 4 has a Negative tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights car protesters, tesla owners, thousands tesla, while Article 9 discusses says visionary, visionary, visionary longer.",
+                    "Impact": "Article 4 has a Negative tone, while Article 9 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights car protesters, tesla owners, thousands tesla, while Article 10 discusses removes tesla, tesla removed, tesla.",
+                    "Impact": "Article 4 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 4 highlights car protesters, tesla owners, thousands tesla, while Article 11 discusses permit california, musk tesla, launching robotaxi.",
+                    "Impact": "Article 4 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights terrorism tesla, attack investigated, elon musk, while Article 6 discusses slump value, valuable asset, value.",
+                    "Impact": "Article 5 has a Negative tone, while Article 6 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights terrorism tesla, attack investigated, elon musk, while Article 7 discusses tesla market, tesla, 50 tesla.",
+                    "Impact": "Article 5 has a Negative tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights terrorism tesla, attack investigated, elon musk, while Article 8 discusses tesla stock, portfolio tesla, musk ties.",
+                    "Impact": "Article 5 has a Negative tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights terrorism tesla, attack investigated, elon musk, while Article 9 discusses says visionary, visionary, visionary longer.",
+                    "Impact": "Article 5 has a Negative tone, while Article 9 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights terrorism tesla, attack investigated, elon musk, while Article 10 discusses removes tesla, tesla removed, tesla.",
+                    "Impact": "Article 5 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 5 highlights terrorism tesla, attack investigated, elon musk, while Article 11 discusses permit california, musk tesla, launching robotaxi.",
+                    "Impact": "Article 5 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights slump value, valuable asset, value, while Article 7 discusses tesla market, tesla, 50 tesla.",
+                    "Impact": "Article 6 has a Negative tone, while Article 7 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights slump value, valuable asset, value, while Article 8 discusses tesla stock, portfolio tesla, musk ties.",
+                    "Impact": "Article 6 has a Negative tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights slump value, valuable asset, value, while Article 9 discusses says visionary, visionary, visionary longer.",
+                    "Impact": "Article 6 has a Negative tone, while Article 9 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights slump value, valuable asset, value, while Article 10 discusses removes tesla, tesla removed, tesla.",
+                    "Impact": "Article 6 has a Negative tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 6 highlights slump value, valuable asset, value, while Article 11 discusses permit california, musk tesla, launching robotaxi.",
+                    "Impact": "Article 6 has a Negative tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights tesla market, tesla, 50 tesla, while Article 8 discusses tesla stock, portfolio tesla, musk ties.",
+                    "Impact": "Article 7 has a Positive tone, while Article 8 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights tesla market, tesla, 50 tesla, while Article 9 discusses says visionary, visionary, visionary longer.",
+                    "Impact": "Article 7 has a Positive tone, while Article 9 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights tesla market, tesla, 50 tesla, while Article 10 discusses removes tesla, tesla removed, tesla.",
+                    "Impact": "Article 7 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 7 highlights tesla market, tesla, 50 tesla, while Article 11 discusses permit california, musk tesla, launching robotaxi.",
+                    "Impact": "Article 7 has a Positive tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights tesla stock, portfolio tesla, musk ties, while Article 9 discusses says visionary, visionary, visionary longer.",
+                    "Impact": "Article 8 has a Positive tone, while Article 9 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights tesla stock, portfolio tesla, musk ties, while Article 10 discusses removes tesla, tesla removed, tesla.",
+                    "Impact": "Article 8 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 8 highlights tesla stock, portfolio tesla, musk ties, while Article 11 discusses permit california, musk tesla, launching robotaxi.",
+                    "Impact": "Article 8 has a Positive tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 9 highlights says visionary, visionary, visionary longer, while Article 10 discusses removes tesla, tesla removed, tesla.",
+                    "Impact": "Article 9 has a Positive tone, while Article 10 has a Negative perspective."
+                },
+                {
+                    "Comparison": "Article 9 highlights says visionary, visionary, visionary longer, while Article 11 discusses permit california, musk tesla, launching robotaxi.",
+                    "Impact": "Article 9 has a Positive tone, while Article 11 has a Positive perspective."
+                },
+                {
+                    "Comparison": "Article 10 highlights removes tesla, tesla removed, tesla, while Article 11 discusses permit california, musk tesla, launching robotaxi.",
+                    "Impact": "Article 10 has a Negative tone, while Article 11 has a Positive perspective."
+                }
+            ],
+            "Topic Overlap": {
+                "Common Topics": [],
+                "Unique Topics per Article": [
+                    [
+                        "coined openai",
+                        "vibe coding",
+                        "coding gained"
+                    ],
+                    [
+                        "battery electric",
+                        "vehicle bev",
+                        "electric vehicle"
+                    ],
+                    [
+                        "crashed coast",
+                        "plane crashed",
+                        "plane carried"
+                    ],
+                    [
+                        "car protesters",
+                        "thousands tesla",
+                        "tesla owners"
+                    ],
+                    [
+                        "terrorism tesla",
+                        "elon musk",
+                        "attack investigated"
+                    ],
+                    [
+                        "value",
+                        "valuable asset",
+                        "slump value"
+                    ],
+                    [
+                        "tesla market",
+                        "50 tesla",
+                        "tesla"
+                    ],
+                    [
+                        "musk ties",
+                        "portfolio tesla",
+                        "tesla stock"
+                    ],
+                    [
+                        "visionary",
+                        "says visionary",
+                        "visionary longer"
+                    ],
+                    [
+                        "removes tesla",
+                        "tesla",
+                        "tesla removed"
+                    ],
+                    [
+                        "launching robotaxi",
+                        "musk tesla",
+                        "permit california"
+                    ]
+                ]
+            }
+        },
+        "Final Sentiment Analysis": "Tesla's latest news coverage is mostly negative. Possible challenges ahead.",
+        "Audio": "tesla.mp3"
+    }
+}
